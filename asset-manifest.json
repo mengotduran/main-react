@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/main-react/static/css/main.f8691d1b.css",
+    "main.js": "/main-react/static/js/main.09dfd64f.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/main-react/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/img widget.png": "/main-react/static/media/img widget.5b3cf7377e3c0ec21bc5.png",
+    "static/media/watches 1.png": "/main-react/static/media/watches 1.81976f2a1517f5ac5e9e.png",
+    "static/media/shoes 1.png": "/main-react/static/media/shoes 1.d3ba007ae42b8b011057.png",
+    "static/media/electronics.png": "/main-react/static/media/electronics.78b0d9793c85545f878c.png",
+    "static/media/bg-1.jpg": "/main-react/static/media/bg-1.e7a118c397efc44bbf9e.jpg",
+    "static/media/javascript.png": "/main-react/static/media/javascript.ed8d1c76307ad7835b6c.png",
+    "static/media/Poppins-Thin.ttf": "/main-react/static/media/Poppins-Thin.a61eaf4c2e4d44d6db6a.ttf",
+    "static/media/Poppins-Light.ttf": "/main-react/static/media/Poppins-Light.f41b63c0bb0963ace821.ttf",
+    "static/media/Poppins-Regular.ttf": "/main-react/static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
+    "static/media/Poppins-Medium.ttf": "/main-react/static/media/Poppins-Medium.9e1bb626874ed49aa343.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/main-react/static/media/Poppins-SemiBold.cce5625b56ec678e4202.ttf",
+    "static/media/Poppins-Bold.ttf": "/main-react/static/media/Poppins-Bold.404e299be26d78e66794.ttf",
+    "static/media/Poppins-ExtraBold.ttf": "/main-react/static/media/Poppins-ExtraBold.4ed78cd5d64af4efc3c7.ttf",
+    "static/media/mailz.jpeg": "/main-react/static/media/mailz.d13d5e32cbc73884b526.jpeg",
+    "static/media/Me.jpeg": "/main-react/static/media/Me.289a3b4367b606e183f1.jpeg",
+    "index.html": "/main-react/index.html",
+    "static/media/programming-skills.svg": "/main-react/static/media/programming-skills.d19983a9bee884277ffa.svg",
+    "static/media/projects.svg": "/main-react/static/media/projects.2b352a52b0588dab62f5.svg",
+    "static/media/interests.svg": "/main-react/static/media/interests.809890a3e4fb0938f61b.svg",
+    "static/media/education.svg": "/main-react/static/media/education.10cfa28a40119ebd70cf.svg",
+    "static/media/work-history.svg": "/main-react/static/media/work-history.a566475dedb99dea4bb8.svg",
+    "main.f8691d1b.css.map": "/main-react/static/css/main.f8691d1b.css.map",
+    "main.09dfd64f.js.map": "/main-react/static/js/main.09dfd64f.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/main-react/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8691d1b.css",
+    "static/js/main.09dfd64f.js"
+  ]
+}
