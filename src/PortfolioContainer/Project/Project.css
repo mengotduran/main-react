@@ -1,0 +1,17 @@
+.testimonial-section {
+  background-color: whitesmoke;
+  padding: 30px 0 30px;
+  background-image: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url("../../../src/Img/Testimonial/bg-1.jpg");
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.testi-item img {
+  border-radius: 10px;
+  filter: brightness(50%);
+}
+
+.testi-item img:hover {
+  cursor: pointer;
+  filter: brightness(100%);
+}
